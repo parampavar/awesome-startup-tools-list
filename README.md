@@ -51,17 +51,17 @@ This is a curated list about tools for everything from productivity to hosting t
 
 ### Site Performance Tools:
 - Page Gym - https://pagegym.com
-- Pingdom http://tools.pingdom.com/fpt	pingdom.com - Website monitor
+- Pingdom https://tools.pingdom.com/fpt	pingdom.com - Website monitor
 - Google Page Insight	https://developers.google.com/speed/pagespeed/insights
-- Web Page Performance Test - http://www.webpagetest.org/
-- GTMetrix	http://gtmetrix.com/
+- Web Page Performance Test - https://www.webpagetest.org/
+- GTMetrix	https://gtmetrix.com/
 
 ### Web Scraping Tools
 - Import.io - https://www.import.io/
 - Web Hose - https://webhose.io/scraping-tools
 - Dexi.io - https://dexi.io/
 - Parse Hub - https://www.parsehub.com/
-- 80Legs - http://80legs.com/
+- 80Legs - https://80legs.com/
 - Scraping Hub - https://scrapinghub.com/
 - Scrapy - https://scrapy.org/
 - Scraper - https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd
@@ -75,7 +75,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - JetBrains IDEs - https://www.jetbrains.com/ides
   - WebStorm - https://www.jetbrains.com/webstorm
 - Sublime Text - https://www.sublimetext.com
-- NetBeans - http://netbeans.org
+- NetBeans - https://netbeans.org
 - Eclipse - https://eclipse.org
 - Windsurf (AI-based) - https://codeium.com/windsurf
 
@@ -105,7 +105,7 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Development Playgrounds
 - JSFiddle - https://jsfiddle.net
 - Plunker - https://plnkr.co/
-- CodePen - http://codepen.io/
+- CodePen - https://codepen.io/
 - JSBin - https://jsbin.com/
 
 ### Local Development Environments
@@ -120,7 +120,7 @@ This is a curated list about tools for everything from productivity to hosting t
 - FreeFileSync - https://freefilesync.org/
 - CryptoMator - https://cryptomator.org/
 - WinScp - https://winscp.net
-- Putty - http://www.putty.org/
+- Putty - https://www.putty.org/
 
 ### Testing and Code Insights
 - Sauce Labs - https://saucelabs.com/
@@ -129,10 +129,10 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Email Service for Developers
 - Resend - https://resend.com/
 - Brevo (Ex Sendinblue) - https://www.brevo.com/
-- MailGun - http://www.mailgun.com , http://www.mailgun.com/google
+- MailGun - https://www.mailgun.com , https://www.mailgun.com/google
 - SendGrid - https://sendgrid.com
 - MailChimp - https://mailchimp.com
-- Mandrill - http://www.mandrill.com/
+- Mandrill - https://www.mandrill.com/
 - AWS SES - https://aws.amazon.com/ses/
 - Sweego - https://www.sweego.io/
 - Elastic Email - https://elasticemail.com/
@@ -150,12 +150,6 @@ This is a curated list about tools for everything from productivity to hosting t
 ### Changelog
 - Headway - https://headwayapp.co/
 
-## Business, Marketing, Sales, Finance
-
-### Idea Validation
-- AreYouInterested - https://areyouinterested.co/
-- SurveyWave - http://surveywave.xyz/
-
 ### Content Management Systems (CMS):
 - WordPress - https://www.wordpress.org
 - Drupal - https://www.drupal.com
@@ -166,13 +160,14 @@ This is a curated list about tools for everything from productivity to hosting t
 - Magento - https://www.magento.com
 - OpenCart - https://www.opencart.com
 - Prestashop - https://www.prestashop.com
-- Shopify (Paid) - https://www.shopify.com
+
+## Business, Marketing, Sales, Finance
 
 ### Analytics:
 - Google Analytics - https://analytics.google.com
 - New Relic https://newrelic.com/
-- Inspectlet	http://www.inspectlet.com/plans
-- Zoom Analytics http://zoomanalytics.co/
+- Inspectlet	https://www.inspectlet.com/plans
+- Zoom Analytics https://zoomanalytics.co/
 - LiveSession - https://livesession.io/
 - Amplitude - https://amplitude.com/
 - Microsoft Clarity - https://clarity.microsoft.com
@@ -187,10 +182,10 @@ This is a curated list about tools for everything from productivity to hosting t
 - Capsule CRM - https://capsulecrm.com
 - Insightly - https://www.insightly.com
 - Bitrix24 (CRM version) - https://www.bitrix24.com/tools/crm/
-- Google Contacts (can be used as lightweight CRM) - http://contacts.google.com
+- Google Contacts (can be used as lightweight CRM) - https://contacts.google.com
 - Attio - https://attio.com/
 
-### Team Chat
+### Team Chat & Communication
 - Slack - https://slack.com
 - Microsoft Teams - https://teams.microsoft.com
 - Google Chat - https://chat.google.com
@@ -207,36 +202,39 @@ This is a curated list about tools for everything from productivity to hosting t
 - Tawk.to - https://www.tawk.to
 
 ### Social Media
-- Facebook - http://facebook.com
-- Twitter - http://twitter.com
-- LinkedIn - http://linkedin.com
-- Instagram - http://instagram.com
-- Pinterest - https://www.pinterest.com/
-- YouTube - http://youtube.com
-- TikTok - https://www.tiktok.com/
+- Facebook - https://facebook.com
+- X (Twitter) - https://x.com
+- LinkedIn - https://linkedin.com
+- Instagram - https://instagram.com
+- Pinterest - https://www.pinterest.com
+- YouTube - https://youtube.com
+- TikTok - https://www.tiktok.com
+- Threads - https://www.threads.com
+- Mastodon - https://joinmastodon.org
+- Bluesky - https://bsky.app
 
 ### Sales & Marketing:
 - HubSpot - https://www.hubspot.com
-  - Marketing: https://www.hubspot.com/products/marketing
-  - Sales: https://www.hubspot.com/products/sales
-- Website Grader by HubSpot	http://grader.com
+  - Marketing - https://www.hubspot.com/products/marketing
+  - Sales - https://www.hubspot.com/products/sales
+  - Website Grader - https://grader.com
 - Buffer App - https://buffer.com
 - HootSuite - https://hootsuite.com
 - CrowdFire - https://www.crowdfireapp.com
-- Ubersuggest - http://ubersuggest.org
+- Ubersuggest - https://ubersuggest.org
 - Visual Website Optimizer - https://visualwebsiteoptimizer.com
-- Tweriod - http://www.tweriod.com
-- My Site Auditor - http://mysiteauditor.com
-- WooBox - http://woobox.com
-- Add Shoppers - http://addshoppers.com
-- BuzzSumo - http://buzzsumo.com
+- Tweriod - https://www.tweriod.com
+- My Site Auditor - https://mysiteauditor.com
+- WooBox - https://woobox.com
+- Add Shoppers - https://addshoppers.com
+- BuzzSumo - https://buzzsumo.com
 - Static html app - https://statichtmlapp.com
-- Hashtagify - http://hashtagify.me
-- Ritetag - http://ritetag.com
+- Hashtagify - https://hashtagify.me
+- Ritetag - https://ritetag.com
 - Tagboard - https://tagboard.com
-- Trendsmap - http://trendsmap.com
-- Shortstack - http://www.shortstack.com
-- Post Planner - http://www.postplanner.com
+- Trendsmap - https://trendsmap.com
+- Shortstack - https://www.shortstack.com
+- Post Planner - https://www.postplanner.com
 - Carousel Hero - https://carouselhero.com
 - Cello - https://cello.so
 - Social Proof Examples - https://socialproofexamples.com
@@ -341,7 +339,7 @@ Good for team projects
 ### Video making:
 - Biteable - https://biteable.com
 - Powtoon - https://www.powtoon.com
-- Animoto - http://animoto.com
+- Animoto - https://animoto.com
 - Openshot - https://www.openshot.org
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
@@ -351,7 +349,7 @@ Good for team projects
 - Unsplash - https://unsplash.com
 - Pexels - https://www.pexels.com
 - Shopify Burst - https://burst.shopify.com
-- Place Image (Stock photos generator) - http://placeimg.com
+- Place Image (Stock photos generator) - https://placeimg.com
 - Undraw - https://undraw.co/illustrations
 - DrawKit - https://www.drawkit.io
 - Excalidraw - https://excalidraw.com
@@ -361,26 +359,26 @@ Good for team projects
 ### Online Logo:
 - Shopify Logo Maker - https://www.shopify.com/tools/logo-maker
 - Logo Joy - https://logojoy.com
-- Logaster - https://www.logaster.com/
-- Cool Text - http://cooltext.com/
-- Online Logo Maker 24 - http://onlinelogomaker24.com
-- Free Logo Services - http://freelogoservices.com
-- Graphic Springs - http://graphicsprings.com
-- Design Mantic - http://designmantic.com
-- Zillion Designs - http://zilliondesigns.com
-- Logo Maker - http://logomaker.com
+- Logaster - https://www.logaster.com
+- Cool Text - https://cooltext.com
+- Online Logo Maker 24 - https://onlinelogomaker24.com
+- Free Logo Services - https://freelogoservices.com
+- Graphic Springs - https://graphicsprings.com
+- Design Mantic - https://designmantic.com
+- Zillion Designs - https://zilliondesigns.com
+- Logo Maker - https://logomaker.com
 
 ### Designing & Editing:
 - Gamma (AI based) -	https://gamma.app
 - Canva - https://www.canva.com
 - Snappa - https://snappa.com
-- Photoshop - http://www.adobe.com/products/photoshop.html
-- Photoshop Express - http://www.photoshop.com/tools
+- Photoshop - https://www.adobe.com/products/photoshop.html
+- Photoshop Express - https://www.photoshop.com/tools
 - Pixlr - https://pixlr.com/
-- Fotor - http://www.fotor.com/
-- Create GIF - http://gifbrewery.com/
-- Stamp creator - http://www.speedystamps.co.uk/
-- Method Draw (SVG Editor) - http://editor.method.ac
+- Fotor - https://www.fotor.com/
+- Create GIF - https://gifbrewery.com/
+- Stamp creator - https://www.speedystamps.co.uk/
+- Method Draw (SVG Editor) - https://editor.method.ac
 - AConvert (Image to SVG Converter) - https://www.aconvert.com/image/png-to-svg/
 - Image Compression and Optimization API - https://www.abstractapi.com/image-processing-optimization-api
 - Figma - https://www.figma.com/
